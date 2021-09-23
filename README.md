@@ -7,7 +7,7 @@ Keyestudio TDS sensor kit is compatible with Arduino controllers, plug and play,
 
 # Technical Parameters
 
-TDS Meter:
+#TDS Meter:
 - Input Voltage: DC 3.3 ~ 5.5V
 - Output Voltage: 0 ~ 2.3V
 - Working Current: 3 ~ 6mA
@@ -15,7 +15,8 @@ TDS Meter:
 - TDS Measurement Accuracy: ± 10% F.S. (25 ℃)
 - Module Interface: XH2.54-3P
 - Electrode Interface: XH2.54-2P
-TDS Probe:
+
+#TDS Probe:
 - Number of Needle: 2
 - Total Length: 60cm
 - Connection Interface: XH2.54-2P
